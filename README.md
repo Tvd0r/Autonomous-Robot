@@ -57,4 +57,4 @@ Main functions in the Arduino sketch:
 
 - The line should be black on a white background (or the reverse). Make sure the IR sensors are properly positioned and calibrated.
 - Adjust the `distantaPrag` value to change obstacle detection sensitivity.
-- More detalied info found in the pdf
+- Detalied info found in the pdf
